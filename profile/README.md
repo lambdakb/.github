@@ -28,7 +28,7 @@
 [LK7D Release Badge]: https://img.shields.io/github/v/release/lambdakb/keyboard-lk7d?display_name=release&style=for-the-badge&logo=github&logoColor=white&label=%20&labelColor=grey
 [LK7D License]: https://github.com/lambdakb/keyboard-lk7d/blob/main/LICENSE
 [LK7D License Badge]: https://img.shields.io/github/license/lambdakb/keyboard-lk7d?style=for-the-badge&logo=opensourcehardware&logoColor=white&label=%20&labelColor=grey&color=%230099B0
-[LK7D]: https://github.com/lambdakb/keyboard-lk7d
+[LK16C]: https://github.com/lambdakb/keyboard-lk16c
 [LK16C Latest Release]: https://github.com/lambdakb/keyboard-lk16c/releases/latest
 [LK16C Release Badge]: https://img.shields.io/github/v/release/lambdakb/keyboard-lk16c?display_name=release&style=for-the-badge&logo=github&logoColor=white&label=%20&labelColor=grey
 [LK16C License]: https://github.com/lambdakb/keyboard-lk16c/blob/main/LICENSE
