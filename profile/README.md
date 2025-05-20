@@ -1,12 +1,13 @@
 # [Lambda Keyboards & Devices](https://lambdakb.dev)
 
-| Type      | Device  | Latest Release                                 | Description                                           | License                                   |
-| --------- | ------- | ---------------------------------------------- | ----------------------------------------------------- | ----------------------------------------- |
-| Keyboard  | [LK23M] | [![LK23M Release Badge]][LK23M Latest Release] | 23 keys combo Numpad / Mediapad / Macropad            | [![CC-BY-NC-SA-4.0 Badge]][LK23M License] |
-| Trackball | [LT6C]  | [![LT6C Release Badge]][LT6C Latest Release]   | Adept Trackball clone PCB suitable for hand soldering | [![LT6C License Badge]][LT6C License]     |
-| Trackball | [LT7DK] | [![LT7DK Release Badge]][LT7DK Latest Release] | PMW3360 Based trackball development kit               | [![LT7DK License Badge]][LT7DK License]   |
-| Keyboard  | [LK7D]  | [![LK7D Release Badge]][LK7D Latest Release]   | 7 Keys Macropad with RGB LED and OLED screen          | [![LK7D License Badge]][LK7D License]     |
-| Keyboard  | [LK16C] | Coming Soon                                    | 4x4 Daisy-Chainable Keyboard PCB                      | [![LK16C License Badge]][LK16C License]   |
+| Type      | Device   | Latest Release                                 | Description                                           | License                                   |
+| --------- | -------- | ---------------------------------------------- | ----------------------------------------------------- | ----------------------------------------- |
+| Keyboard  | [LK23M]  | [![LK23M Release Badge]][LK23M Latest Release] | 23 keys combo Numpad / Mediapad / Macropad            | [![CC-BY-NC-SA-4.0 Badge]][LK23M License] |
+| Trackball | [LT6C]   | [![LT6C Release Badge]][LT6C Latest Release]   | Adept Trackball clone PCB suitable for hand soldering | [![LT6C License Badge]][LT6C License]     |
+| Trackball | [LT7DK]  | [![LT7DK Release Badge]][LT7DK Latest Release] | PMW3360 Based trackball development kit               | [![LT7DK License Badge]][LT7DK License]   |
+| Keyboard  | [LK7D]   | [![LK7D Release Badge]][LK7D Latest Release]   | 7 Keys Macropad with RGB LED and OLED screen          | [![LK7D License Badge]][LK7D License]     |
+| Keyboard  | [LK16C]  | Coming Soon                                    | 4x4 Daisy-Chainable Keyboard PCB                      | [![LK16C License Badge]][LK16C License]   |
+| Keyboard  | [LK56HS] | Coming Soon                                    | 55% Staggered Hot-Swappable Keyboard                  | [![LK56HS License Badge]][LK56HS License] |
 
 [LK23M]: https://github.com/lambdakb/keyboard-lk23m
 [LK23M Latest Release]: https://github.com/lambdakb/keyboard-lk23m/releases/latest
@@ -33,3 +34,8 @@
 [LK16C Release Badge]: https://img.shields.io/github/v/release/lambdakb/keyboard-lk16c?display_name=release&style=for-the-badge&logo=github&logoColor=white&label=%20&labelColor=grey
 [LK16C License]: https://github.com/lambdakb/keyboard-lk16c/blob/main/LICENSE
 [LK16C License Badge]: https://img.shields.io/github/license/lambdakb/keyboard-lk16c?style=for-the-badge&logo=opensourcehardware&logoColor=white&label=%20&labelColor=grey&color=%230099B0
+[LK56HS]: https://github.com/lambdakb/keyboard-lk56hs
+[LK56HS Latest Release]: https://github.com/lambdakb/keyboard-lk56hs/releases/latest
+[LK56HS Release Badge]: https://img.shields.io/github/v/release/lambdakb/keyboard-lk56hs?display_name=release&style=for-the-badge&logo=github&logoColor=white&label=%20&labelColor=grey
+[LK56HS License]: https://github.com/lambdakb/keyboard-lk56hs/blob/main/LICENSE
+[LK56HS License Badge]: https://img.shields.io/github/license/lambdakb/keyboard-lk56hs?style=for-the-badge&logo=opensourcehardware&logoColor=white&label=%20&labelColor=grey&color=%230099B0
